@@ -1,6 +1,6 @@
 # Jekyll theme
 
-Much worse Jekyll theme is avaiable under [MIT License](https://opensource.org/licenses/MIT).
+*Much Worse* Jekyll theme is avaiable under [MIT License](https://opensource.org/licenses/MIT).
 
 **To run this template:**
 
