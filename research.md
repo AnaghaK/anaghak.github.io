@@ -1,7 +1,8 @@
 ---
 layout: page
 permalink: /research/
-title: 
+title: Publications 
+
 pubs:
 
     - title:   "A Unified Framework for Planning in Adversarial and Cooperative Environments"
@@ -66,8 +67,6 @@ pubs:
           url:  "https://youtu.be/EjuK9YDDJkA"
 
 ---
-
-## Publications 
 
 {% assign thumbnail="left" %}
 

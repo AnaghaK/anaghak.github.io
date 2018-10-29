@@ -1,10 +1,9 @@
 ---
 layout: page
-title:
+title: Welcome!
 permalink: /
 ---
 
-## Welcome!
 {% include image.html url="images/anagha.jpg" caption="" max_width="3px" align="right" %}
 
 I am a PhD student majoring in Computer Science at [Arizona State University]. I am a member of [Yochan] research group directed by [Prof. Subbarao Kambhampati]. Broadly, my interests lie in the field of Human-Aware AI, Privacy Preservation for AI Agents and Explainable AI Planning. 
