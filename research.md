@@ -7,7 +7,7 @@ pubs:
 
     - title:   "A Unified Framework for Planning in Adversarial and Cooperative Environments"
       author:  "A. Kulkarni, S. Srivastava, & S. Kambhampati"
-      journal: "under review in AAAI 2019, and appeared in the International Conference on Automated Planning and Scheduling (ICAPS) 2018 Workshop on Planning and Robotics"
+      journal: "to appear in Proceedings of AAAI 2019, and appeared in the International Conference on Automated Planning and Scheduling (ICAPS) 2018 Workshop on Planning and Robotics"
       url:     "https://arxiv.org/pdf/1802.06137.pdf"
       media:
         - name: "YouTube"
@@ -15,7 +15,7 @@ pubs:
     
     - title:   "Resource Bounded Secure Goal Obfuscation"
       author:  "A. Kulkarni, M. Klenk, S. Rane, & H. Souroush"
-      journal: "under review in AAAI 2019, and appeared in the AAAI 2018 Fall Symposium on Integrating Planning, Diagnosis and Causal Reasoning."
+      journal: "appeared in the AAAI 2018 Fall Symposium on Integrating Planning, Diagnosis and Causal Reasoning."
       url:     "http://www.public.asu.edu/~akulka16/papers/parc-obfuscation-aaai.pdf"
       
     - title:   "Projection-Aware Task Planning and Execution for Human-in-the-Loop Operation of Robots in a Mixed-Reality Workspace"
