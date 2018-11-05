@@ -1,6 +1,7 @@
-- title: "Research"
-  href: "/research/"
+- title: "Publications"
+  identifier: "publications-header"
+  href: "/#publications"
 
 - title: "CV"
-  href: "/cv/"
+  href: "/files/cv.pdf"
 
