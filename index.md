@@ -5,6 +5,11 @@ permalink: /
 
 pubs:
 
+    - title:   "Signaling Friends and Head-Faking Enemies Simultaneously: Balancing Goal Obfuscation and Goal Legibility"
+      author:  "A. Kulkarni, S. Srivastava, & S. Kambhampati"
+      journal: "to appear as an Extended Abstract in Proceedings of International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2020."
+      url:     "https://arxiv.org/pdf/1905.10672.pdf"
+
     - title:   "Explicability? Legibility? Predictability? Transparency? Privacy? Security? The Emerging Landscape of Interpretable Agent Behavior"
       author:  "T. Chakraborti, A. Kulkarni, S. Sreedharan, D. Smith, & S. Kambhampati"
       journal: "to appear in Proceedings of International Conference on Automated Planning and Scheduling (ICAPS) 2019."
