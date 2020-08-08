@@ -6,7 +6,7 @@ permalink: /
 pubs:
 
     - title:   "Designing Environments Conducive to Interpretable Robot Behavior"
-      author:  "A. Kulkarni*, S. Sreedharan*, S. Keren, T. Chakraborti, D. Smith & S. Kambhampati"
+      author:  "A. Kulkarni*, S. Sreedharan*, S. Keren, T. Chakraborti, D. Smith, & S. Kambhampati"
       journal: "in Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2020."
       url:     "https://yochan-lab.github.io/papers/files/papers/IROS2020_design_for_explicability.pdf"
 
