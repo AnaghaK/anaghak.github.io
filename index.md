@@ -5,19 +5,24 @@ permalink: /
 
 pubs:
 
+    - title:   "Designing Environments Conducive to Interpretable Robot Behavior"
+      author:  "A. Kulkarni*, S. Sreedharan*, S. Keren, T. Chakraborti, D. Smith & S. Kambhampati"
+      journal: "in Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2020."
+      url:     "https://yochan-lab.github.io/papers/files/papers/IROS2020_design_for_explicability.pdf"
+
     - title:   "Signaling Friends and Head-Faking Enemies Simultaneously: Balancing Goal Obfuscation and Goal Legibility"
       author:  "A. Kulkarni, S. Srivastava, & S. Kambhampati"
-      journal: "to appear as an Extended Abstract in Proceedings of International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2020."
+      journal: "as an Extended Abstract in Proceedings of International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2020."
       url:     "https://arxiv.org/pdf/1905.10672.pdf"
 
     - title:   "Explicability? Legibility? Predictability? Transparency? Privacy? Security? The Emerging Landscape of Interpretable Agent Behavior"
       author:  "T. Chakraborti, A. Kulkarni, S. Sreedharan, D. Smith, & S. Kambhampati"
-      journal: "to appear in Proceedings of International Conference on Automated Planning and Scheduling (ICAPS) 2019."
+      journal: "in Proceedings of International Conference on Automated Planning and Scheduling (ICAPS) 2019."
       url:     "https://arxiv.org/pdf/1811.09722.pdf"
 
     - title:   "Explicability as Minimizing Distance from Expected Behavior"
       author:  "A. Kulkarni, Y. Zha, T. Chakraborti, S. Vadlamudi, Y. Zhang, & S. Kambhampati"
-      journal: "to appear as an Extended Abstract in Proceedings of International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2019."
+      journal: "as an Extended Abstract in Proceedings of International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2019."
       url:     "https://arxiv.org/pdf/1611.05497.pdf"
   
     - title:   "A Unified Framework for Planning in Adversarial and Cooperative Environments"
@@ -35,7 +40,7 @@ pubs:
       
     - title:   "Projection-Aware Task Planning and Execution for Human-in-the-Loop Operation of Robots in a Mixed-Reality Workspace"
       author:  "T. Chakraborti, S. Sreedharan, A. Kulkarni, & S. Kambhampati"
-      journal: "in Proceedings of the IEEE/RSJ Inter- national Conference on Intelligent Robots and Systems (IROS) 2018, also appeared in HRI 2018 Workshop on Virtual, Augmented and Mixed Reality for Human-Robot Interaction, and in ICAPS 2018 Workshop on User Interfaces & Scheduling & Planning."
+      journal: "in Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2018, also appeared in HRI 2018 Workshop on Virtual, Augmented and Mixed Reality for Human-Robot Interaction, and in ICAPS 2018 Workshop on User Interfaces & Scheduling & Planning."
       url:     "https://yochan-lab.github.io/papers/files/papers/projection-aware.pdf"
       media:
         - name: "YouTube"
