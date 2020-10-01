@@ -97,9 +97,9 @@ If you'd like to contact me, please drop me a mail at [anaghak at asu dot edu](m
 # Research Interests
 * Human-aware AI Planning, Explainable AI Planning, Intention Projection
 * Privacy Preservation for AI Systems, Decision-Making & Behavior Prediction
-* Overview of my research [Poster](https://www.dropbox.com/s/zxo80tsqxl40t5t/ResearchPoster.pdf?dl=0) [YouTube](https://youtu.be/WvjNAWtnCbs)
+* Overview of my research [[Poster]](https://www.dropbox.com/s/zxo80tsqxl40t5t/ResearchPoster.pdf?dl=0) [[YouTube]](https://youtu.be/WvjNAWtnCbs)
 * AAAI 2020 Tutorial on Synthesizing Explainable and Deceptive Behavior for Human-AI Interaction
-[Tutorial slide deck](https://www.dropbox.com/s/9z9iedehwhcxm22/tutorial.pdf?dl=0) [Tutorial overview, contents, video](https://yochan-lab.github.io/tutorial/AAAI-2020/)
+[[Tutorial slide deck]](https://www.dropbox.com/s/9z9iedehwhcxm22/tutorial.pdf?dl=0) [[Tutorial overview, contents, video]](https://yochan-lab.github.io/tutorial/AAAI-2020/)
 
 # <a name="publications"></a>Publications 
 
