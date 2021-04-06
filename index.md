@@ -90,16 +90,31 @@ pubs:
 
 {% include image.html url="images/anagha.jpg" caption="" max_width="3px" align="right" %}
 
-I am a PhD student majoring in Computer Science at [Arizona State University](http://www.asu.edu){:target="_blank"}. I am a member of [Yochan](https://yochan-lab.github.io/home/){:target="_blank"} research group directed by [Prof. Subbarao Kambhampati](http://rakaposhi.eas.asu.edu/){:target="_blank"}. Before joining ASU in 2015, I did my Master's at [University of Southern California](http://www.usc.edu){:target="_blank"} with a major in Computer Science. At USC, I worked on multi-agent path planning problems at [IDM Lab](http://idm-lab.org){:target="_blank"} while being supervised by [Dr. T. K. Satish Kumar](https://www.tkskwork.org/){:target="_blank"} and on human-robot interaction related projects at [Interaction Lab](http://robotics.usc.edu/interaction/){:target="_blank"}.
+I am an AI Scientist at [Invitae](https://www.invitae.com/en){:target="_blank"}. I received my Ph.D. in Computer Science at [Arizona State University](http://www.asu.edu){:target="_blank"}. At ASU, I was a member of [Yochan](https://yochan-lab.github.io/home/){:target="_blank"} research group directed by [Prof. Subbarao Kambhampati](http://rakaposhi.eas.asu.edu/){:target="_blank"}. Before joining ASU in 2015, I did my Master's at [University of Southern California](http://www.usc.edu){:target="_blank"} with a major in Computer Science. At USC, I worked on multi-agent path planning problems at [IDM Lab](http://idm-lab.org){:target="_blank"} while being supervised by [Dr. T. K. Satish Kumar](https://www.tkskwork.org/){:target="_blank"} and on human-robot interaction related projects at [Interaction Lab](http://robotics.usc.edu/interaction/){:target="_blank"}.
 
-If you'd like to contact me, please drop me a mail at [anaghak at asu dot edu](mailto:anaghak@asu.edu) or find me on [LinkedIn](https://www.linkedin.com/in/anaghapk){:target="_blank"}.
+If you'd like to contact me, please drop me a mail at [kulkarni dot p dot anagha at gmail dot com](mailto:kulkarni.p.anagha@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/anaghapk){:target="_blank"}.
 
 # Research Interests
-* Human-aware AI Planning, Explainable AI Planning, Intention Projection
-* Privacy Preservation for AI Systems, Decision-Making & Behavior Prediction
+* Human-aware AI Planning, Explainable AI, Privacy Preserving AI
 * Overview of my research [[Poster]](https://www.dropbox.com/s/zxo80tsqxl40t5t/ResearchPoster.pdf?dl=0) [[YouTube]](https://youtu.be/WvjNAWtnCbs)
 * AAAI 2020 Tutorial on Synthesizing Explainable and Deceptive Behavior for Human-AI Interaction
 [[Tutorial slide deck]](https://www.dropbox.com/s/9z9iedehwhcxm22/tutorial.pdf?dl=0) [[Tutorial overview, contents, video]](https://yochan-lab.github.io/tutorial/AAAI-2020/)
+
+# <a name="thesis"></a>Thesis
+
+### Synthesis of Interpretable and Obfuscatory Behaviors in Human-Aware AI Systems
+
+#### Advisor
+* [Subbarao Kambhampati](http://rakaposhi.eas.asu.edu/){:target="_blank"} | Arizona State University
+#### Committee Members
+* [Ece Kamar](https://www.ecekamar.com/){:target="_blank"} | Microsoft Research 
+* [David E. Smith](http://psresearch.xyz/){:target="_blank"} | (Retired) NASA Ames Research Center
+* [Siddharth Srivastava](http://siddharthsrivastava.net/){:target="_blank"} | Arizona State University
+* [Yu Zhang](http://www.public.asu.edu/~yzhan442/){:target="_blank"} | Arizona State University
+
+In settings where a human and an AI agent coexist, the agent has to be capable of reasoning with the human’s preconceived notions about the environment as well as with the human’s perception limitations. In addition, it should be capable of communicating intentions and objectives effectively to the human-in- the-loop. When an embodied AI agent acts in the presence of human observers, it can synthesize interpretable behaviors like explicable, legible, and assistive behaviors by accounting for the human’s mental model (inclusive of her sensor model) in its reasoning process. This thesis will study different behavior synthesis algorithms which focus on improving the interpretability of the agent’s behavior in the presence of a human observer. Further, this thesis will study how environment redesign strategies can be leveraged to improve the overall interpretability of the agent’s behavior. At times, the agent’s environment may also consist of purely adversarial entities or mixed entities (i.e. adversarial as well as cooperative entities), that are trying to infer information from the AI agent’s behavior. In such settings, it is crucial for the agent to exhibit obfuscatory behavior that prevents sensitive information from falling into the hands of the adversarial entities. This thesis will show that it is possible to synthesize interpretable as well as obfuscatory behaviors using a single underlying algorithmic framework.
+
+[Read More](/files/thesis.pdf){:target="_blank"}
 
 # <a name="publications"></a>Publications 
 
@@ -108,5 +123,5 @@ If you'd like to contact me, please drop me a mail at [anaghak at asu dot edu](m
 {{pub.author}}<br />
 *{{pub.journal}}*
 {% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}}){:target="_blank"}] {% endfor %}{% endif %}
-
 {% endfor %}
+

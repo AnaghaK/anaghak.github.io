@@ -1,7 +1,8 @@
+- title: "Thesis"
+  identifier: "thesis-header"
+  href: "/#thesis"
+
 - title: "Publications"
   identifier: "publications-header"
   href: "/#publications"
-
-- title: "CV"
-  href: "/files/cv.pdf"
 
