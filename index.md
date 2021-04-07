@@ -5,7 +5,7 @@ permalink: /
 
 pubs:
 
-    - title:   "A Bayesian Account of Measures of Interpretability in Human-AI Interaction”"
+    - title:   "A Bayesian Account of Measures of Interpretability in Human-AI Interaction"
       author:  "S. Sreedharan, A. Kulkarni, T. Chakraborti, D. Smith, & S. Kambhampati"
       journal: "in Proceedings of Workshop on Cooperative AI at Conference on Neural Information Processing Systems (NeurIPS), 2020, also appeared in the Workshop on Explainable AI Planning at International Conference on Automated Planning and Scheduling (ICAPS) 2020."
       url:     "https://drive.google.com/file/d/1LXnjS_O0u1B3egUyiz6wtaHJ-lC6YOdF/view"
