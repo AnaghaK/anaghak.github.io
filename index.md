@@ -110,7 +110,7 @@ If you'd like to contact me, please drop me a [mail](mailto:kulkarni.p.anagha@gm
 
 # Research
 * Interests: Human-aware AI Planning, Explainable AI, Privacy Preserving AI
-* Overview of my research [[Poster]](https://www.dropbox.com/s/zxo80tsqxl40t5t/ResearchPoster.pdf?dl=0) &nbsp;&nbsp;&nbsp;&nbsp; [[Video]](https://youtu.be/WvjNAWtnCbs)
+* Overview of my research &nbsp;&nbsp;&nbsp;&nbsp; [[Poster]](https://www.dropbox.com/s/zxo80tsqxl40t5t/ResearchPoster.pdf?dl=0) &nbsp;&nbsp;&nbsp;&nbsp; [[Video]](https://youtu.be/WvjNAWtnCbs)
 * AAAI 2020 Tutorial on Synthesizing Explainable and Deceptive Behavior for Human-AI Interaction
 [[Tutorial slide deck]](https://www.dropbox.com/s/9z9iedehwhcxm22/tutorial.pdf?dl=0) &nbsp;&nbsp;&nbsp;&nbsp; [[Tutorial overview, Contents, Video]](https://yochan-lab.github.io/tutorial/AAAI-2020/)
 
