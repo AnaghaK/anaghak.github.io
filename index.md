@@ -98,13 +98,13 @@ pubs:
 
 ---
 
-{% include image.html url="images/anagha.jpg" caption="" max_width="3px" align="right" %}
+{% include image.html url="images/anagha.jpg" caption="" max_width="3.5px" align="right" %}
 
 I am now an AI Scientist at [Invitae](https://www.invitae.com/en){:target="_blank"}. 
 
 I received my Ph.D. in Computer Science from [Arizona State University](http://www.asu.edu){:target="_blank"}. At ASU, I was a member of [Yochan](https://yochan-lab.github.io/home/){:target="_blank"} research group directed by [Prof. Subbarao Kambhampati](http://rakaposhi.eas.asu.edu/){:target="_blank"}. My Ph.D. thesis outlines how an AI agent can reason over the human’s mental model of itself to synthesize human-aware AI behaviors and establishes a taxonomy of different types of interpretable as well as obfuscatory AI behaviors. 
 
-Before joining ASU in 2015, I completed my M.S. in Computer Science at [University of Southern California](http://www.usc.edu){:target="_blank"}. At USC, I worked on multi-agent path planning problems at [IDM Lab](http://idm-lab.org){:target="_blank"} while being supervised by [Dr. T. K. Satish Kumar](https://www.tkskwork.org/){:target="_blank"} and on human-robot interaction related projects at [Interaction Lab](http://robotics.usc.edu/interaction/){:target="_blank"}.
+Before joining ASU in 2015, I completed my M.S. in Computer Science at [University of Southern California](http://www.usc.edu){:target="_blank"}. At USC, I worked with [Dr. T. K. Satish Kumar](https://www.tkskwork.org/){:target="_blank"} on multi-agent path planning problems.
 
 If you'd like to contact me, please drop me a [mail](mailto:kulkarni.p.anagha@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/anaghapk){:target="_blank"}.
 
