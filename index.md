@@ -5,6 +5,11 @@ permalink: /
 
 pubs:
 
+    - title:   "A Bayesian Account of Measures of Interpretability in Human-AI Interaction”"
+      author:  "S. Sreedharan, A. Kulkarni, T. Chakraborti, D. Smith, & S. Kambhampati"
+      journal: "in Proceedings of Workshop on Cooperative AI at Conference on Neural Information Processing Systems (NeurIPS), 2020, also appeared in the Workshop on Explainable AI Planning at International Conference on Automated Planning and Scheduling (ICAPS) 2020."
+      url:     "https://drive.google.com/file/d/1LXnjS_O0u1B3egUyiz6wtaHJ-lC6YOdF/view"
+    
     - title:   "Designing Environments Conducive to Interpretable Robot Behavior"
       author:  "A. Kulkarni*, S. Sreedharan*, S. Keren, T. Chakraborti, D. Smith, & S. Kambhampati"
       journal: "in Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2020."
@@ -19,6 +24,11 @@ pubs:
       author:  "T. Chakraborti, A. Kulkarni, S. Sreedharan, D. Smith, & S. Kambhampati"
       journal: "in Proceedings of International Conference on Automated Planning and Scheduling (ICAPS) 2019."
       url:     "https://arxiv.org/pdf/1811.09722.pdf"
+
+    - title:   "Design for Interpretability"
+      author:  "A. Kulkarni*, S. Sreedharan*, S. Keren, T. Chakraborti, D. Smith, & S. Kambhampati"
+      journal: "in Proceedings of Workshop on Explainable AI Planning at International Conference on Automated Planning and Scheduling (ICAPS) 2019."
+      url:     "https://openreview.net/forum?id=rkxg4a3m9N"
 
     - title:   "Explicability as Minimizing Distance from Expected Behavior"
       author:  "A. Kulkarni, Y. Zha, T. Chakraborti, S. Vadlamudi, Y. Zhang, & S. Kambhampati"
