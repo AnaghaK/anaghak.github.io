@@ -111,14 +111,14 @@ If you'd like to contact me, please drop me a [mail](mailto:kulkarni.p.anagha@gm
 
 ### Advisor
   
-    * [Subbarao Kambhampati](http://rakaposhi.eas.asu.edu/){:target="_blank"} | Arizona State University
+  *[Subbarao Kambhampati](http://rakaposhi.eas.asu.edu/){:target="_blank"} | Arizona State University
 
 ### Committee Members
   
-    * [Ece Kamar](https://www.ecekamar.com/){:target="_blank"} | Microsoft Research 
-    * [David E. Smith](http://psresearch.xyz/){:target="_blank"} | (Retired) NASA Ames Research Center
-    * [Siddharth Srivastava](http://siddharthsrivastava.net/){:target="_blank"} | Arizona State University
-    * [Yu Zhang](http://www.public.asu.edu/~yzhan442/){:target="_blank"} | Arizona State University
+  *[Ece Kamar](https://www.ecekamar.com/){:target="_blank"} | Microsoft Research 
+  *[David E. Smith](http://psresearch.xyz/){:target="_blank"} | (Retired) NASA Ames Research Center
+  *[Siddharth Srivastava](http://siddharthsrivastava.net/){:target="_blank"} | Arizona State University
+  *[Yu Zhang](http://www.public.asu.edu/~yzhan442/){:target="_blank"} | Arizona State University
 
 ### Abstract 
 
