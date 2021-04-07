@@ -100,25 +100,25 @@ If you'd like to contact me, please drop me a [mail](mailto:kulkarni.p.anagha@gm
 
 # Research
 * Interests: Human-aware AI Planning, Explainable AI, Privacy Preserving AI
-* Overview of my research [[Poster]](https://www.dropbox.com/s/zxo80tsqxl40t5t/ResearchPoster.pdf?dl=0) [[Video]](https://youtu.be/WvjNAWtnCbs)
+* Overview of my research [[Poster]](https://www.dropbox.com/s/zxo80tsqxl40t5t/ResearchPoster.pdf?dl=0) &nbsp;&nbsp;&nbsp;&nbsp; [[Video]](https://youtu.be/WvjNAWtnCbs)
 * AAAI 2020 Tutorial on Synthesizing Explainable and Deceptive Behavior for Human-AI Interaction
-[[Tutorial slide deck]](https://www.dropbox.com/s/9z9iedehwhcxm22/tutorial.pdf?dl=0) [[Tutorial overview, Contents, Video]](https://yochan-lab.github.io/tutorial/AAAI-2020/)
+[[Tutorial slide deck]](https://www.dropbox.com/s/9z9iedehwhcxm22/tutorial.pdf?dl=0) &nbsp;&nbsp;&nbsp;&nbsp; [[Tutorial overview, Contents, Video]](https://yochan-lab.github.io/tutorial/AAAI-2020/)
 
 # <a name="thesis"></a>Thesis
 
 ### Synthesis of Interpretable and Obfuscatory Behaviors in Human-Aware AI Systems 
-[[Dissertation]](/files/thesis.pdf){:target="_blank"}    [[Video]](https://www.youtube.com/watch?v=j--M3l6412Q){:target="_blank"}
+[[Dissertation]](/files/thesis.pdf){:target="_blank"}  &nbsp;&nbsp;&nbsp;&nbsp; [[Video]](https://www.youtube.com/watch?v=j--M3l6412Q){:target="_blank"}
 
 ### Advisor
-
-* [Subbarao Kambhampati](http://rakaposhi.eas.asu.edu/){:target="_blank"} | Arizona State University
+  
+  * [Subbarao Kambhampati](http://rakaposhi.eas.asu.edu/){:target="_blank"} | Arizona State University
 
 ### Committee Members
-
-* [Ece Kamar](https://www.ecekamar.com/){:target="_blank"} | Microsoft Research 
-* [David E. Smith](http://psresearch.xyz/){:target="_blank"} | (Retired) NASA Ames Research Center
-* [Siddharth Srivastava](http://siddharthsrivastava.net/){:target="_blank"} | Arizona State University
-* [Yu Zhang](http://www.public.asu.edu/~yzhan442/){:target="_blank"} | Arizona State University
+  
+  * [Ece Kamar](https://www.ecekamar.com/){:target="_blank"} | Microsoft Research 
+  * [David E. Smith](http://psresearch.xyz/){:target="_blank"} | (Retired) NASA Ames Research Center
+  * [Siddharth Srivastava](http://siddharthsrivastava.net/){:target="_blank"} | Arizona State University
+  * [Yu Zhang](http://www.public.asu.edu/~yzhan442/){:target="_blank"} | Arizona State University
 
 ### Abstract 
 
