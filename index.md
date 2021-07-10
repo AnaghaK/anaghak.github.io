@@ -5,6 +5,16 @@ permalink: /
 
 pubs:
 
+    - title:   "A Unifying Bayesian Formulation of Measures of Interpretability in Human-AI Interaction"
+      author:  "S. Sreedharan, A. Kulkarni, D. Smith, & S. Kambhampati"
+      journal: "in Proceedings of International Joint Conferences on Artificial Intelligence (IJCAI) Survey Track 2021."
+      url:     "https://yochan-lab.github.io/papers/files/papers/Bayesian_Account.pdf"
+
+    - title:   "Planning for Proactive Assistance in Environments with Partial Observability"
+      author:  "A. Kulkarni, S. Srivastava, & S. Kambhampati"
+      journal: "in Proceedings of Workshop on Explainable AI Planning at International Conference on Automated Planning and Scheduling (ICAPS) 2021."
+      url:     "https://arxiv.org/pdf/2105.00525.pdf"
+    
     - title:   "A Bayesian Account of Measures of Interpretability in Human-AI Interaction"
       author:  "S. Sreedharan, A. Kulkarni, T. Chakraborti, D. Smith, & S. Kambhampati"
       journal: "in Proceedings of Workshop on Cooperative AI at Conference on Neural Information Processing Systems (NeurIPS), 2020, also appeared in the Workshop on Explainable AI Planning at International Conference on Automated Planning and Scheduling (ICAPS) 2020."
