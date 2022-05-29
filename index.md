@@ -4,6 +4,23 @@ title:
 permalink: /
 
 pubs:
+    - title:   "Trajectory Constraint Heuristics for Optimal Probabilistic Planning"
+      author:  "J. Peterson, A. Kulkarni, E. Keyder, J. Kim, S. Zilberstein"
+      journal: "in Proceedings of International Symposium on Combinatorial Search (SoCS) 2022."
+      url:     "/files/TrajectoryConstraints.pdf"
+
+    - title:   "Explainable Human-AI Interaction: A Planning Perspective"
+      author:  "S. Sreedharan, A. Kulkarni and S. Kambhampati"
+      journal: "Synthesis Lectures on Artificial Intelligence and Machine Learning <br /> Morgan & Claypool Publishers (184 pages) 2022."
+      url:     "https://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1698"
+
+    - title:   "Synthesis of Interpretable and Obfuscatory Behaviors in Human-Aware AI Systems"
+      author:  "A. Kulkarni"
+      journal: "Ph.D. Thesis, Arizona State University 2021."
+      url:     "https://keep.lib.asu.edu/items/161301"
+      award:
+        - name: "ICAPS Best Dissertation Award Honorable Mention 2022"
+          url:  "https://www.icaps-conference.org/icaps-awards/"
 
     - title:   "A Unifying Bayesian Formulation of Measures of Interpretability in Human-AI Interaction"
       author:  "S. Sreedharan, A. Kulkarni, D. Smith, & S. Kambhampati"
@@ -110,7 +127,9 @@ pubs:
 
 {% include image.html url="images/anagha.jpg" caption="" max_width="3.5px" align="right" %}
 
-I am now an AI Scientist at [Invitae](https://www.invitae.com/en){:target="_blank"}. 
+I am now an AI Research Scientist at [Invitae](https://www.invitae.com/en){:target="_blank"}. 
+
+I am excited to announce the publication of the book **[Explainable Human-AI Interaction: A Planning Perspective](https://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1698){:target="_blank"}** that I co-wrote with [Sarath Sreedharan](https://www.public.asu.edu/~ssreedh3/){:target="_blank"} and [Prof. Subbarao Kambhampati](http://rakaposhi.eas.asu.edu/){:target="_blank"}.
 
 I received my Ph.D. in Computer Science from [Arizona State University](http://www.asu.edu){:target="_blank"}. At ASU, I was a member of [Yochan](https://yochan-lab.github.io/home/){:target="_blank"} research group directed by [Prof. Subbarao Kambhampati](http://rakaposhi.eas.asu.edu/){:target="_blank"}. My Ph.D. thesis outlines how an AI agent can reason over the human’s mental model of itself to synthesize human-aware AI behaviors and establishes a taxonomy of different types of interpretable as well as obfuscatory AI behaviors. 
 
@@ -124,14 +143,14 @@ If you'd like to contact me, please drop me a [mail](mailto:kulkarni.p.anagha@gm
 * AAAI 2020 Tutorial on Synthesizing Explainable and Deceptive Behavior for Human-AI Interaction
 [[Tutorial slide deck]](https://www.dropbox.com/s/9z9iedehwhcxm22/tutorial.pdf?dl=0) &nbsp;&nbsp;&nbsp;&nbsp; [[Tutorial overview, Contents, Video]](https://yochan-lab.github.io/tutorial/AAAI-2020/)
 
-# <a name="thesis"></a>Thesis
+# <a name="thesis"></a>Ph.D. Thesis
 
 ### Synthesis of Interpretable and Obfuscatory Behaviors in Human-Aware AI Systems 
 [[Dissertation]](/files/thesis.pdf){:target="_blank"}  &nbsp;&nbsp;&nbsp;&nbsp; [[Video]](https://www.youtube.com/watch?v=j--M3l6412Q){:target="_blank"}
 
 ### Advisor
   
-  [Subbarao Kambhampati](http://rakaposhi.eas.asu.edu/){:target="_blank"} | Arizona State University
+  [Subbarao Kambhampati](http://rakaposhi.eas.asu.edu/){:target="_blank"} | | Arizona State University
 
 ### Committee Members
   
@@ -149,7 +168,6 @@ In settings where a human and an AI agent coexist, the agent has to be capable o
 {% for pub in page.pubs %}
 [**{{pub.title}}**]({% if pub.internal %}{{pub.url | prepend: site.baseurl}}{% else %}{{pub.url}}{% endif %}){:target="_blank"}<br />
 {{pub.author}}<br />
-*{{pub.journal}}*
-{% if pub.media %}<br />Media: {% for article in pub.media %}[[{{article.name}}]({{article.url}}){:target="_blank"}] {% endfor %}{% endif %}
+*{{pub.journal}}*<br />{% if pub.award %}**Award: {% for article in pub.award %}[[{{article.name}}]({{article.url}})**{:target="_blank"}] {% endfor %}{% endif %}{% if pub.media %}**Media:** {% for article in pub.media %}**[[{{article.name}}]({{article.url}}){:target="_blank"}]** {% endfor %}{% endif %}
 {% endfor %}
 
