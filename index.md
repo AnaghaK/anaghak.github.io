@@ -4,6 +4,11 @@ title:
 permalink: /
 
 pubs:
+    - title:   "Planning for Attacker Entrapment in Adversarial Settings"
+      author:  "B. Cates, A. Kulkarni, S. Sreedharan"
+      journal: "in Proceedings of International Conference on Automated Planning and Scheduling (ICAPS) 2023."
+      url:     ""
+
     - title:   "Trajectory Constraint Heuristics for Optimal Probabilistic Planning"
       author:  "J. Peterson, A. Kulkarni, E. Keyder, J. Kim, S. Zilberstein"
       journal: "in Proceedings of International Symposium on Combinatorial Search (SoCS) 2022."
@@ -12,7 +17,7 @@ pubs:
     - title:   "Explainable Human-AI Interaction: A Planning Perspective"
       author:  "S. Sreedharan, A. Kulkarni and S. Kambhampati"
       journal: "Synthesis Lectures on Artificial Intelligence and Machine Learning <br /> Morgan & Claypool Publishers (184 pages) 2022."
-      url:     "https://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1698"
+      url:     "https://link.springer.com/book/10.1007/978-3-031-03767-2"
 
     - title:   "Synthesis of Interpretable and Obfuscatory Behaviors in Human-Aware AI Systems"
       author:  "A. Kulkarni"
@@ -73,7 +78,7 @@ pubs:
     - title:   "Resource Bounded Secure Goal Obfuscation"
       author:  "A. Kulkarni, M. Klenk, S. Rane, & H. Souroush"
       journal: "appeared in the AAAI 2018 Fall Symposium on Integrating Planning, Diagnosis and Causal Reasoning, and in AAAI 2019 Workshop on Plan, Activity and Intent Recognition."
-      url:     "http://www.public.asu.edu/~akulka16/papers/parc-obfuscation-aaai.pdf"
+      url:     "/files/parc-obfuscation-fss.pdf"
       
     - title:   "Projection-Aware Task Planning and Execution for Human-in-the-Loop Operation of Robots in a Mixed-Reality Workspace"
       author:  "T. Chakraborti, S. Sreedharan, A. Kulkarni, & S. Kambhampati"
