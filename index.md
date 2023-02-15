@@ -7,7 +7,7 @@ pubs:
     - title:   "Planning for Attacker Entrapment in Adversarial Settings"
       author:  "B. Cates, A. Kulkarni, S. Sreedharan"
       journal: "in Proceedings of International Conference on Automated Planning and Scheduling (ICAPS) 2023."
-      url:     ""
+      url:     "/files/adversarial_entrapment_icaps.pdf"
 
     - title:   "Trajectory Constraint Heuristics for Optimal Probabilistic Planning"
       author:  "J. Peterson, A. Kulkarni, E. Keyder, J. Kim, S. Zilberstein"
